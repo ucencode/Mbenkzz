@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mbenkzz
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning php and js
-- 💞️ I’m looking to collaborate on ... Laravel Projects
+- 💞️ I’m looking to collaborate on ... Web Application Development
 - 📫 How to reach me ... use this link https://bit.ly/a_husein
 
 <!---
